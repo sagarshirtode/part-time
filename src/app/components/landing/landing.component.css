@@ -1,0 +1,29 @@
+.header{
+
+}
+.part{
+    color: blue;
+    font-weight: bold;
+}
+.time{
+    color: red;
+    font-weight: bold;
+    font-style: italic;
+}
+.loginBtn{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background: white;
+    border-radius: 50px;
+    border: 1px solid black;
+    padding: 5px 10px 5px 10px ;
+}
+.login-icon{
+    height: 25px;
+    width: 25px;
+    margin-right: 10px;
+}
+.mr-10{
+    margin-right: 10px;
+}

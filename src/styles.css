@@ -1,1 +1,15 @@
-/* You can add global styles to this file, and also import other style files */
+.brandBtn{
+    height: 48px;
+    width: 110px;
+    color: blue;
+    font-size: 16px;
+    font-weight: bolder;
+    border-radius: 50px;
+    border: 1px solid blue;
+    background: white;
+}
+.brandNote{
+    color: #526a6e;
+    line-height: 1.25;
+    font-weight: 400;
+}
