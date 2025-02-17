@@ -1,8 +1,10 @@
 # Ticket system
 
-F-Feature
-B-Bug
-FR-Fast release
+e.g : PTF-1 F-Feature
+
+e.g : PTB-1 B-Bug
+
+e.g : PTFR-1 FR-Fast release
 
 # PartTime
 
