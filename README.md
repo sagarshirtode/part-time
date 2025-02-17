@@ -1,3 +1,11 @@
+# Ticket system
+
+e.g : PTF-1 F-Feature
+
+e.g : PTB-1 B-Bug
+
+e.g : PTFR-1 FR-Fast release
+
 # PartTime
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 17.3.5.
